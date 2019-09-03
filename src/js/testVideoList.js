@@ -1,7 +1,7 @@
 export const videoList = [{
   VideoId: 0,
   source: 'http://cdnvideo.babastudio.com/sv/1cbacad8-16c431912e6/1cbacad8-16c431912e6.mp4',
-  CoverURL: 'http://vod-download.cn-shanghai.aliyuncs.com/video-list-img/cctv5plus.png',
+  CoverURL: 'http://cdnvideo.babastudio.com/bdcfcee8329f4ae08bb41d1f4a0fd3e1/snapshots/e1ddd12a169f478d9247eaa3b37a08f2-00002.jpg',
   Title: 'Bekerja Dengan GitHub',
   Duration: '00:00',
   Description: 'Test Video Server Jakarta'

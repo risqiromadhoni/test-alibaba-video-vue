@@ -2,7 +2,7 @@
     <div class="player-demo">
         <div class="header">
             <div class="main-content">
-                <img class="logo" src="https://www.babastudio.com/assets/front_page/img/icon/logo.png">
+                <img class="logo" src="http://adigimind.id/wp-content/uploads/2019/09/cropped-adigimind-1.png">
             </div>
         </div>
         <div class="main-content clearfix">
